@@ -1,0 +1,16 @@
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\bin\Debug\net5.0\DesafioBRQ.exe
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\bin\Debug\net5.0\DesafioBRQ.deps.json
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\bin\Debug\net5.0\DesafioBRQ.runtimeconfig.json
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\bin\Debug\net5.0\DesafioBRQ.runtimeconfig.dev.json
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\bin\Debug\net5.0\DesafioBRQ.dll
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\bin\Debug\net5.0\DesafioBRQ.pdb
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.AssemblyInfoInputs.cache
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.AssemblyInfo.cs
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.dll
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\refint\DesafioBRQ.dll
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.pdb
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\DesafioBRQ.genruntimeconfig.cache
+C:\Users\wilso\OneDrive\Área de Trabalho\Agatha\DesafioBRQ\DesafioBRQ\DesafioBRQ\obj\Debug\net5.0\ref\DesafioBRQ.dll
