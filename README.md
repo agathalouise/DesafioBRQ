@@ -5,7 +5,7 @@ Fiz um programa de console para este desafio.
 Utilizei o que aprendemos no treinamento junto com a EduSync, seria legal também usar orientação a objetos criando uma classe "Pessoa".
 
 
-Para rodar o programa é necessario ter o .Net (sdk e framework) instalado no seu computador, você pode encontralos aqui: https://dotnet.microsoft.com/en-us/download
+Para rodar o programa é necessario ter o .Net (sdk e framework) instalado no seu computador, você pode encontrá-los aqui: https://dotnet.microsoft.com/en-us/download
 Sugiro utilizar o Visual Studio para compilar o programa. 
 
 
